@@ -180,7 +180,7 @@ public class loggerRuntime extends ContextPluginRuntime {
                     dir = "MISSED";
                     break;
             }
-            stringBuffer.append("\nPhone Number:--- " + phNumber + " \nCall Type:--- "
+            stringBuffer.append("\nXPhone Number:--- " + phNumber + " \nCall Type:--- "
                     + dir + " \nCall Date:--- " + callDayTime
                     + " \nCall duration in sec :--- " + callDuration);
             stringBuffer.append("\n----------------------------------");
