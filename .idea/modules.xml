@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/logger.iml" filepath="$PROJECT_DIR$/logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger-Core/logger-Core.iml" filepath="$PROJECT_DIR$/logger-Core/logger-Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger-Datatypes/logger-Datatypes.iml" filepath="$PROJECT_DIR$/logger-Datatypes/logger-Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger-TestApp/logger-TestApp.iml" filepath="$PROJECT_DIR$/logger-TestApp/logger-TestApp.iml" />
+    </modules>
+  </component>
+</project>
+
